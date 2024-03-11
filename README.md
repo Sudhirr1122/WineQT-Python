@@ -14,7 +14,7 @@ This project aims to analyze a dataset containing various attributes of wines an
 - Many wines with a quality rating of 7 exhibit 0% citric acid content, indicating potential outliers or anomalies in the dataset.
 
 ### 4. Density Distribution
-- The average density remains consistent across different quality ratings, as evidenced by the histogram indicating a normal distribution. The histogram also shows "ND" (Non-Detect) values.
+- The average density remains consistent across different quality ratings, as evidenced by the histogram indicating a normal distribution. The histogram also shows "ND Curve".
 
 ### 5. Outliers Detection
 - Outliers are observed in attributes such as chlorides, residual sugar, and sulphates, suggesting potential data anomalies or extreme values that may impact the analysis results.
